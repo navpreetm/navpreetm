@@ -1,4 +1,4 @@
-Hey, I'm Navi 😇  
+# Hey, I'm Navi 😇  
 Thanks for checking out my GitHub profile!
 
 - ✨ I am an aspiring Software Engineer.
